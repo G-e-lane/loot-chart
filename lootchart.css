@@ -1,0 +1,19 @@
+.heading{
+    text-align: center;
+     color: rgba(24, 3, 3, 0.938);
+     
+ }
+ .testDiv{
+    text-align: center;
+    font-size: 55px;
+  background: -webkit-linear-gradient(#e9e708, #00d4ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+ }
+ .body{
+     text-align: center;
+     font-size: 25px;
+  background: -webkit-linear-gradient(#e9e708, #00d4ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+ }
